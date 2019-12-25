@@ -1,0 +1,4 @@
+{
+    "storagePath": "/tmp/picogw/storage"
+    ,"localNpmPath": "/tmp/picogw/local-npms"
+}

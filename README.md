@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PicoGW
 
 [Japanese document](https://toyhack.club/picogw-jp/)
@@ -145,3 +146,6 @@ API payloads are defined by each plugin. Please refer to each plugin's README.
 #### No license
 
 [cryptico](https://www.npmjs.com/package/cryptico)  
+=======
+# HomeGateway
+>>>>>>> 5b82ca35ef3fe144c48e6a89038b61db24ff6c77
